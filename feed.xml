@@ -37,5 +37,13 @@
             <pubDate>Sat, 30 Mar 2025 12:30:00 +0000</pubDate>
             <category>Computación Cuántica</category>
         </item>
+
+        <item>
+            <title>Nuevo artículo de prueba</title>
+            <link>https://techvisionblog.com/nuevo-articulo</link>
+            <description>Este es un artículo de prueba para comprobar la actualización automática</description>
+            <pubDate>Tue, 02 Apr 2025 12:00:00 GMT</pubDate>
+            <category>Prueba</category>
+        </item>
     </channel>
 </rss>
