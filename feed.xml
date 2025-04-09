@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>TechVision - Noticias de Tecnología</title>
+        <link>https://techvisionblog.com</link>
+        <description>Últimas noticias y análisis sobre tecnología e innovación</description>
+        <language>es</language>
+        <!-- Se añade el atom:link con rel="self" -->
+        <atom:link href="https://techvisionblog.com/feed.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <guid>https://techvisionblog.com/gpt5-impacto</guid> <!-- Añadido el guid -->
+            <title>La inteligencia artificial GPT-5 cambia el mercado laboral</title>
+            <link>https://techvisionblog.com/gpt5-impacto</link>
+            <description>Exploramos cómo la nueva generación de IA está revolucionando el mercado laboral y las oportunidades que ofrece.</description>
+            <!-- Se cambia GMT a +0000 en pubDate -->
+            <pubDate>Mon, 01 Apr 2025 08:00:00 +0000</pubDate>
+            <category>Inteligencia Artificial</category>
+        </item>
+
+        <item>
+            <guid>https://techvisionblog.com/apple-reality-mix</guid> <!-- Añadido el guid -->
+            <title>Apple lanza las primeras gafas de realidad mixta</title>
+            <link>https://techvisionblog.com/apple-reality-mix</link>
+            <description>Las nuevas gafas de realidad mixta de Apple prometen una experiencia inmersiva nunca antes vista.</description>
+            <!-- Se cambia GMT a +0000 en pubDate -->
+            <pubDate>Sun, 31 Mar 2025 15:45:00 +0000</pubDate>
+            <category>Realidad Virtual</category>
+        </item>
+
+        <item>
+            <guid>https://techvisionblog.com/cuantic-future</guid> <!-- Añadido el guid -->
+            <title>Computación cuántica: Un paso más cerca del futuro</title>
+            <link>https://techvisionblog.com/cuantic-future</link>
+            <description>IBM y Google anuncian nuevos avances en computación cuántica que podrían cambiar el mundo de la informática.</description>
+            <!-- Se cambia GMT a +0000 en pubDate -->
+            <pubDate>Sat, 30 Mar 2025 12:30:00 +0000</pubDate>
+            <category>Computación Cuántica</category>
+        </item>
+    </channel>
+</rss>
